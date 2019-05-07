@@ -1,6 +1,6 @@
 from pymol import cmd
 from pymol import stored
-
+####tutorial: https://www.youtube.com/watch?v=8JawxMeAV8g&t=3s#####
 ########################READ ME ###################################
 #Prior to running the program,                                    #
 # 1. change the directory to the one with this program            #
